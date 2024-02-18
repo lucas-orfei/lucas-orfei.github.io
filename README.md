@@ -2,7 +2,7 @@
 
 ### Education
 
-M.S., Physics | The University of Texas at Dallas 
-B.S., Physics | Universidade do ABC (2022)
+- M.S., Physics | Universidade Federal do ABC (2024)
+- B.S., Physics | Universidade Federal do ABC (2022)
 
 ### Projects
